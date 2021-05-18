@@ -9,9 +9,9 @@
 This repository contains a series of Colab notebooks that you will use as a backbone for the assignmets and practical exercises of the course Introduction to Interpretable AI, as of in the Spring semester of 2021.
 
 The notebooks in this folder present exercises on
-- Feature Visualization with the Lucid toolbox
-- Gradient-weighted Class Activation Mapping (Grad-CAM) on you CNN classifier. This explainability technique generates a heatmap the relevant input features. 
-- Concept-based explanations with Regression Concept Vectors.
+- Lecture 2: Feature Visualization with the Lucid toolbox
+- Lecture 2: Gradient-weighted Class Activation Mapping (Grad-CAM) on you CNN classifier. This explainability technique generates a heatmap the relevant input features. 
+- Lecture 4: Concept-based explanations with Regression Concept Vectors.
 The notebooks are applied on standard computer vision tasks. A specific application is presented for breast histopathology images at high-magnification (40x). 
 
 ## Installing / Getting started
